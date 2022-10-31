@@ -1,0 +1,47 @@
+
+
+.papai:hover{
+    transform: scale(1.2);
+}
+
+.legenda:hover{
+    transform: scale(1.5);
+
+}
+
+.legenda{
+    position: absolute;
+    text-align: center;
+    left: 0px;
+    bottom: 0px;
+    align-items: center;
+    margin: 15px 120px;
+    border-radius: 20px;
+    padding: 5px;
+    box-shadow: #EDA62D 0px 2px 10px 5px;
+    transition: transform 200ms linear;
+}
+
+
+section{
+    font: normal bold 20px 'Arial','Helvetica','sans-serif';
+    justify-content: flex-end;
+    
+}
+
+
+
+
+video{
+    border-radius: 1em;
+    box-shadow: #d9cb04 0px 2px 10px 5px;
+    margin-left: 530px;
+}
+
+
+
+footer{
+    background-color:aqua ;
+    height: 100px;
+   
+}

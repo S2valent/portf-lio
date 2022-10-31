@@ -1,0 +1,9 @@
+
+header{
+    display: flex;
+    background-color: #393b50;
+    padding: 5px 250px 5px 40px;
+    border-bottom:10px double #d63772;
+    align-items:flex-end; 
+    justify-content: space-between;
+}

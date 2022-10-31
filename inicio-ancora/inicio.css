@@ -1,0 +1,22 @@
+.inicio{  
+    display: inline-flex;
+    align-items: center;
+    border-bottom: 5px solid #0909082c;
+    font: normal bold 20px 'Arial','Helvetica','sans-serif';
+    color: #fff;
+    text-decoration: none;
+    padding: 10px;
+    margin-right:40px;
+}
+
+.inicio:hover{
+    border-color:#EDA62D;    
+}
+
+.inicio::before{
+    content:"";
+    background-color: #F21B6A;
+    width: 10px;
+    height: 10px;
+    margin-right: 10px;
+}

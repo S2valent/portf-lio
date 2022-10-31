@@ -1,0 +1,15 @@
+.container img{
+    border-radius:26px;
+    box-shadow:  #d9cb04 1.5px 2.5px ;
+    width: 400px;
+    height: 40px;  
+    
+}
+
+.container{
+    padding-bottom:5px ;
+    position: relative;
+    font: normal bold 10px 'Arial','Helvetica','sans-serif';
+    color:#fff;
+    
+}
