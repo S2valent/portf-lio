@@ -5,24 +5,37 @@
     width: 630px;
     height: 130px;
     box-shadow: 5px 5px 10px #c5527c;
-    margin: 100px 400px;
+    margin: auto;
     padding: 10px 0px;
+    margin-top: 50px;
    
 }
+
 #box h1{
-    margin-top: 15px;
+   
     color:aqua;
     
-
+    
 }
-#box1{    
+#box1{ 
+    display: inline-block;
     background-image:linear-gradient(to right ,  #131001 , #0f2147 , #855691);
     width: 150px;
-    height: 75px;
+    height: 65px;
     text-align: center;
-    box-shadow: 5px 5px 10px #68278d;
-    margin-left: 610px;
-    margin-bottom: 50px;
+    box-shadow: 5px 5px 10px #c5527c;
+    margin-bottom:50px;
+    margin-right: 50px;
     padding: 5px 0px;
 
+
+}
+#div_box{
+    display: flex;
+    justify-content:center;
+    margin-top : 50px;
+    
+    
+   
+   
 }
